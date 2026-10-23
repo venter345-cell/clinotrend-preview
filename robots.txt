@@ -1,3 +1,2 @@
-# Preview build of the Clinotrend site. Not for indexing.
 User-agent: *
 Disallow: /
